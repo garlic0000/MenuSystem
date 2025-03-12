@@ -32,7 +32,7 @@ class AdminLogin(QMainWindow, Ui_MainWindow_adminLogin):
         :return:
         """
         # 设置默认用户名
-        self.lineEdit_userName.setText("钱自娟")
+        self.lineEdit_userName.setText("管理员")
         # 设置默认密码
         # 如何设置密码隐藏
         self.lineEdit_password.setText("999999999")

@@ -76,5 +76,5 @@ CREATE TABLE admin_info  # 管理员信息表
 );
 
 # 测试数据
-INSERT INTO `admin_info` VALUES(1, '钱自娟', '999999999');
+INSERT INTO `admin_info` VALUES(1, '管理员', '999999999');
 

@@ -8,7 +8,7 @@ class Connector:
 
     def __init__(self):
         self.userName = 'root'
-        self.password = 'qzj192038'
+        self.password = 'root3306'
         self.databaseName = 'menu_db'
         self.port = 3306
         try:
